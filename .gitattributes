@@ -1,0 +1,2 @@
+OrderInvoiceSystem/bin/Debug/net8.0/runtimes/*/native/IronPdfInterop.so filter=lfs diff=lfs merge=lfs -text
+OrderInvoiceSystem/bin/Debug/net8.0/runtimes/win-*/native/libcef.dll filter=lfs diff=lfs merge=lfs -text
